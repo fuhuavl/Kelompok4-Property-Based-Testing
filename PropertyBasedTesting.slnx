@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PropertyBasedTesting/PropertyBasedTesting.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PropertyBasedTesting.Tests/PropertyBasedTesting.Tests.csproj" />
+  </Folder>
+</Solution>
