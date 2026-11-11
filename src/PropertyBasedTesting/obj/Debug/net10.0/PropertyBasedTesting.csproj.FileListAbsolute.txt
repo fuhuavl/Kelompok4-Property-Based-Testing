@@ -1,14 +1,29 @@
-E:\#kuliag\#SEMESTER 5\pengujian_pl\Kelompok4-Property-Based-Testing\src\PropertyBasedTesting\bin\Debug\net10.0\PropertyBasedTesting.exe
-E:\#kuliag\#SEMESTER 5\pengujian_pl\Kelompok4-Property-Based-Testing\src\PropertyBasedTesting\bin\Debug\net10.0\PropertyBasedTesting.deps.json
-E:\#kuliag\#SEMESTER 5\pengujian_pl\Kelompok4-Property-Based-Testing\src\PropertyBasedTesting\bin\Debug\net10.0\PropertyBasedTesting.runtimeconfig.json
-E:\#kuliag\#SEMESTER 5\pengujian_pl\Kelompok4-Property-Based-Testing\src\PropertyBasedTesting\bin\Debug\net10.0\PropertyBasedTesting.dll
-E:\#kuliag\#SEMESTER 5\pengujian_pl\Kelompok4-Property-Based-Testing\src\PropertyBasedTesting\bin\Debug\net10.0\PropertyBasedTesting.pdb
-E:\#kuliag\#SEMESTER 5\pengujian_pl\Kelompok4-Property-Based-Testing\src\PropertyBasedTesting\obj\Debug\net10.0\PropertyBasedTesting.GeneratedMSBuildEditorConfig.editorconfig
-E:\#kuliag\#SEMESTER 5\pengujian_pl\Kelompok4-Property-Based-Testing\src\PropertyBasedTesting\obj\Debug\net10.0\PropertyBasedTesting.AssemblyInfoInputs.cache
-E:\#kuliag\#SEMESTER 5\pengujian_pl\Kelompok4-Property-Based-Testing\src\PropertyBasedTesting\obj\Debug\net10.0\PropertyBasedTesting.AssemblyInfo.cs
-E:\#kuliag\#SEMESTER 5\pengujian_pl\Kelompok4-Property-Based-Testing\src\PropertyBasedTesting\obj\Debug\net10.0\PropertyBasedTesting.csproj.CoreCompileInputs.cache
-E:\#kuliag\#SEMESTER 5\pengujian_pl\Kelompok4-Property-Based-Testing\src\PropertyBasedTesting\obj\Debug\net10.0\PropertyBasedTesting.dll
-E:\#kuliag\#SEMESTER 5\pengujian_pl\Kelompok4-Property-Based-Testing\src\PropertyBasedTesting\obj\Debug\net10.0\refint\PropertyBasedTesting.dll
-E:\#kuliag\#SEMESTER 5\pengujian_pl\Kelompok4-Property-Based-Testing\src\PropertyBasedTesting\obj\Debug\net10.0\PropertyBasedTesting.pdb
-E:\#kuliag\#SEMESTER 5\pengujian_pl\Kelompok4-Property-Based-Testing\src\PropertyBasedTesting\obj\Debug\net10.0\PropertyBasedTesting.genruntimeconfig.cache
-E:\#kuliag\#SEMESTER 5\pengujian_pl\Kelompok4-Property-Based-Testing\src\PropertyBasedTesting\obj\Debug\net10.0\ref\PropertyBasedTesting.dll
+E:/#kuliag/#SEMESTER 5/pengujian_pl/Kelompok4-Property-Based-Testing/src/PropertyBasedTesting/bin/Debug/net10.0/PropertyBasedTesting.exe
+E:/#kuliag/#SEMESTER 5/pengujian_pl/Kelompok4-Property-Based-Testing/src/PropertyBasedTesting/bin/Debug/net10.0/PropertyBasedTesting.deps.json
+E:/#kuliag/#SEMESTER 5/pengujian_pl/Kelompok4-Property-Based-Testing/src/PropertyBasedTesting/bin/Debug/net10.0/PropertyBasedTesting.runtimeconfig.json
+E:/#kuliag/#SEMESTER 5/pengujian_pl/Kelompok4-Property-Based-Testing/src/PropertyBasedTesting/bin/Debug/net10.0/PropertyBasedTesting.dll
+E:/#kuliag/#SEMESTER 5/pengujian_pl/Kelompok4-Property-Based-Testing/src/PropertyBasedTesting/bin/Debug/net10.0/PropertyBasedTesting.pdb
+E:/#kuliag/#SEMESTER 5/pengujian_pl/Kelompok4-Property-Based-Testing/src/PropertyBasedTesting/obj/Debug/net10.0/PropertyBasedTesting.GeneratedMSBuildEditorConfig.editorconfig
+E:/#kuliag/#SEMESTER 5/pengujian_pl/Kelompok4-Property-Based-Testing/src/PropertyBasedTesting/obj/Debug/net10.0/PropertyBasedTesting.AssemblyInfoInputs.cache
+E:/#kuliag/#SEMESTER 5/pengujian_pl/Kelompok4-Property-Based-Testing/src/PropertyBasedTesting/obj/Debug/net10.0/PropertyBasedTesting.AssemblyInfo.cs
+E:/#kuliag/#SEMESTER 5/pengujian_pl/Kelompok4-Property-Based-Testing/src/PropertyBasedTesting/obj/Debug/net10.0/PropertyBasedTesting.csproj.CoreCompileInputs.cache
+E:/#kuliag/#SEMESTER 5/pengujian_pl/Kelompok4-Property-Based-Testing/src/PropertyBasedTesting/obj/Debug/net10.0/PropertyBasedTesting.dll
+E:/#kuliag/#SEMESTER 5/pengujian_pl/Kelompok4-Property-Based-Testing/src/PropertyBasedTesting/obj/Debug/net10.0/refint/PropertyBasedTesting.dll
+E:/#kuliag/#SEMESTER 5/pengujian_pl/Kelompok4-Property-Based-Testing/src/PropertyBasedTesting/obj/Debug/net10.0/PropertyBasedTesting.pdb
+E:/#kuliag/#SEMESTER 5/pengujian_pl/Kelompok4-Property-Based-Testing/src/PropertyBasedTesting/obj/Debug/net10.0/PropertyBasedTesting.genruntimeconfig.cache
+E:/#kuliag/#SEMESTER 5/pengujian_pl/Kelompok4-Property-Based-Testing/src/PropertyBasedTesting/obj/Debug/net10.0/ref/PropertyBasedTesting.dll
+/home/medst/Kelompok4-Property-Based-Testing/src/PropertyBasedTesting/bin/Debug/net10.0/PropertyBasedTesting
+/home/medst/Kelompok4-Property-Based-Testing/src/PropertyBasedTesting/bin/Debug/net10.0/PropertyBasedTesting.deps.json
+/home/medst/Kelompok4-Property-Based-Testing/src/PropertyBasedTesting/bin/Debug/net10.0/PropertyBasedTesting.runtimeconfig.json
+/home/medst/Kelompok4-Property-Based-Testing/src/PropertyBasedTesting/bin/Debug/net10.0/PropertyBasedTesting.dll
+/home/medst/Kelompok4-Property-Based-Testing/src/PropertyBasedTesting/bin/Debug/net10.0/PropertyBasedTesting.pdb
+/home/medst/Kelompok4-Property-Based-Testing/src/PropertyBasedTesting/obj/Debug/net10.0/PropertyBasedTesting.GeneratedMSBuildEditorConfig.editorconfig
+/home/medst/Kelompok4-Property-Based-Testing/src/PropertyBasedTesting/obj/Debug/net10.0/PropertyBasedTesting.AssemblyInfoInputs.cache
+/home/medst/Kelompok4-Property-Based-Testing/src/PropertyBasedTesting/obj/Debug/net10.0/PropertyBasedTesting.AssemblyInfo.cs
+/home/medst/Kelompok4-Property-Based-Testing/src/PropertyBasedTesting/obj/Debug/net10.0/PropertyBasedTesting.csproj.CoreCompileInputs.cache
+/home/medst/Kelompok4-Property-Based-Testing/src/PropertyBasedTesting/obj/Debug/net10.0/PropertyBasedTesting.sourcelink.json
+/home/medst/Kelompok4-Property-Based-Testing/src/PropertyBasedTesting/obj/Debug/net10.0/PropertyBasedTesting.dll
+/home/medst/Kelompok4-Property-Based-Testing/src/PropertyBasedTesting/obj/Debug/net10.0/refint/PropertyBasedTesting.dll
+/home/medst/Kelompok4-Property-Based-Testing/src/PropertyBasedTesting/obj/Debug/net10.0/PropertyBasedTesting.pdb
+/home/medst/Kelompok4-Property-Based-Testing/src/PropertyBasedTesting/obj/Debug/net10.0/PropertyBasedTesting.genruntimeconfig.cache
+/home/medst/Kelompok4-Property-Based-Testing/src/PropertyBasedTesting/obj/Debug/net10.0/ref/PropertyBasedTesting.dll

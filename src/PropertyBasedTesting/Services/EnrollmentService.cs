@@ -1,16 +1,10 @@
+using System;
 using PropertyBasedTesting.Models;
 
 namespace PropertyBasedTesting.Services;
 
-/// <summary>
-/// Handles enrollment rules for students and courses.
-/// </summary>
 public class EnrollmentService
 {
-    /// <summary>
-    /// Attempts to enroll a student in a course.
-    /// Returns false when an enrollment rule prevents registration.
-    /// </summary>
     public bool Enroll(Student student, Course course)
     {
         ArgumentNullException.ThrowIfNull(student);
@@ -21,47 +15,34 @@ public class EnrollmentService
             return false;
         }
 
+        if (course.Capacity <= 0 || course.IsFull)
+        {
+            return false;
+        }
+
         if (student.IsEnrolledIn(course.CourseId))
         {
             return false;
         }
 
-        if (course.IsFull)
+        int creditLimitFromGpa = student.GPA switch
         {
-            return false;
-        }
+            >= 3.00m => 24,
+            >= 2.50m => 21,
+            >= 2.00m => 18,
+            _ => 12
+        };
 
-        var creditLimit = Math.Min(
-            student.MaxAllowedCredits,
-            GetCreditLimitFromGpa(student.GPA));
+        int effectiveLimit = Math.Min(student.MaxAllowedCredits, creditLimitFromGpa);
 
-        if (student.TotalEnrolledCredits + course.Credits > creditLimit)
+        if (student.TotalEnrolledCredits + course.Credits > effectiveLimit)
         {
             return false;
         }
 
         student.AddCourse(course);
         course.IncrementEnrollmentCount();
+
         return true;
-    }
-
-    private static int GetCreditLimitFromGpa(decimal gpa)
-    {
-        if (gpa >= 3.00m)
-        {
-            return 24;
-        }
-
-        if (gpa >= 2.50m)
-        {
-            return 21;
-        }
-
-        if (gpa >= 2.00m)
-        {
-            return 18;
-        }
-
-        return 12;
     }
 }

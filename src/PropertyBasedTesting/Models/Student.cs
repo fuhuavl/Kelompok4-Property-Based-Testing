@@ -62,7 +62,7 @@ public class Student
             course => course.CourseId == courseId);
     }
 
-    internal void AddCourse(Course course)
+    public void AddCourse(Course course)
     {
         ArgumentNullException.ThrowIfNull(course);
         _enrolledCourses.Add(course);

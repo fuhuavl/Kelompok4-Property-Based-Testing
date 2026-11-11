@@ -56,7 +56,7 @@ public class Course
         EnrolledStudentCount = 0;
     }
 
-    internal void IncrementEnrollmentCount()
+    public void IncrementEnrollmentCount()
     {
         EnrolledStudentCount++;
     }
